@@ -1,0 +1,9 @@
+# AWS credentials - nunca subir
+SES-SENDER_accessKeys.csv
+secrets.md
+*accessKeys*.csv
+
+# Entornos
+.env
+.env.local
+.env.*.local
